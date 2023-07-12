@@ -1,0 +1,1 @@
+mkdir -p out/${SPWASHI_OUTPUT_DIRNAME:-composited}/{frames,logs,output}
